@@ -17,4 +17,4 @@ A simple interactive Tic Tac Toe (XO) game built using HTML, CSS, and JavaScript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/razannbudair/Mini-Tic-Tac-Game.git
+   git clone https://github.com/razannbudair/mini-tic-tac-game.git
