@@ -1,7 +1,7 @@
 # Tic Tac Toe (XO) Game
 ## 🎮 Preview
 
-![Game Screenshot](![Secreenshot](https://github.com/user-attachments/assets/a43beda4-1be9-43a1-9656-165c2eac1cb0)
+![Game Screenshot](https://github.com/razannbudair/mini-tic-tac-game/blob/main/Secreenshot.png)
 )
 
 A simple interactive Tic Tac Toe (XO) game built using HTML, CSS, and JavaScript. Players can take turns playing the game, and the game features a 10-second countdown timer for each move. The game includes functionality to reset and start a new game after a win or draw.
